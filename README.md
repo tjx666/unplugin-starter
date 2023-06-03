@@ -1,6 +1,6 @@
-# unplugin-starter [![npm](https://img.shields.io/npm/v/unplugin.svg)](https://npmjs.com/package/unplugin)
+# unplugin-starter
 
-[![Unit Test](https://github.com/tjx666/unplugin-starter/actions/workflows/unit-test.yml/badge.svg)](https://github.com/tjx666/unplugin-starter/actions/workflows/unit-test.yml)
+[![npm](https://img.shields.io/npm/v/unplugin.svg)](https://npmjs.com/package/unplugin) [![downloads](https://img.shields.io/npm/dw/unplugin)](https://npmjs.com/package/unplugin) [![Unit Test](https://github.com/tjx666/unplugin-starter/actions/workflows/unit-test.yml/badge.svg)](https://github.com/tjx666/unplugin-starter/actions/workflows/unit-test.yml)
 
 Starter template for [unplugin](https://github.com/unjs/unplugin).
 
